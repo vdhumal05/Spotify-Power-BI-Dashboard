@@ -31,6 +31,7 @@ VI)Files Included
 - Dataset
 - Screenshots
 
-
+VII)Dashboard Demo Video
+<video src="spotify.mp4" controls width="600"><video>
 
 
